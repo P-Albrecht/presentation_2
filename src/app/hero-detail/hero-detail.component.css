@@ -20,7 +20,7 @@ button:hover {
   background-color: #42545c;
 }
 button:disabled {
-  background-color: #eee;
+  background-color: black;
   color: #ccc;
   cursor: auto;
 }
